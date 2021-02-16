@@ -117,14 +117,14 @@ exports.reglevelahf = (command, pushname, getLevelingLevel, sender, ahf) => {
 exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp, _registered, uangku, role) => { 
 	return `
 	▬▬|| Welcome To APBOT ||▬▬
-*╭─͙─͙─͙─͙─͙─͙─͙─͙─͙─͙͙𒀭𖠄ྀྀ࿐*
+*╭𒀭𖠄ྀྀ࿐*
 *┊❍╭━─━━─≪✠≫─━─━─━╮*
 *┆💠 Creator : AGUSZ PAKEZ*
 *┆💠 wa   : wa.me/6289694354384*
 *┆💠 ig     : https://instagram.com/axfc_ap*
 *┆💠 YT   : AGUSZ PAKEZ*
 *┆❍╰━─━─━≪✠≫─━─━─━╯*
-*╰─͙─͙─͙─͙─͙─͙─͙─͙─͙─͙͙─ꕥꦿོ*
+*╰ꕥꦿོ*
 🔰 *YOUR INFO* 🔰
   ⚕️ Prefix: 「  ${prefix}  」
   ⚕️ Nama: ${pushname}
